@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "1aa36e43c2f59ac4a08e97a056112bdc",
+  "assets/AssetManifest.json": "932d3ba9bb2c8f6a791259a1d01b7d84",
 "assets/assets/audios/favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "assets/assets/fonts/favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "assets/assets/images/ar-locked.png": "3b5d7ccee2ed3336ab74d794a5435c58",
@@ -14,6 +14,7 @@ const RESOURCES = {
 "assets/assets/images/logo_gif_nowords_temp_transp.gif": "0f7765745b58ffb88936f0337cba41f9",
 "assets/assets/images/logo_gif_temp.gif": "e725b31f411ff289149e743681058630",
 "assets/assets/images/logo_gif_temp_transp.gif": "c70c329cfd5aa7253713542b6e7567d6",
+"assets/assets/images/name-tag.png": "84c289fee80cd52dba9b0c5bae58be65",
 "assets/assets/images/nofold-black.png": "4f8b84ea00879471ff4dc4e58af5875b",
 "assets/assets/images/nofold-white-headsets.png": "ffae50148b1e0fb7bacc424a02d9745e",
 "assets/assets/images/nofold-white.png": "f44b8e0de8e8e77dbf35ceac62c0c76d",
@@ -37,9 +38,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "df800c813d7c72aabf478acd717756c5",
-"/": "df800c813d7c72aabf478acd717756c5",
-"main.dart.js": "c88d27521bb3dec2f11ac46c7ae5e934",
+"index.html": "70cd3b47468e68ce954118ffacd53c85",
+"/": "70cd3b47468e68ce954118ffacd53c85",
+"main.dart.js": "b3de1d3bf1a559a499ab8002a5e9c13f",
 "manifest.json": "2d9688429a591727c0fdb9bc73ca69b7",
 "version.json": "73023d02be903c66cffaaec5561a452f"
 };
